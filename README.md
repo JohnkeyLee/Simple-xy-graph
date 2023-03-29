@@ -8,6 +8,6 @@ The data reproduction and modification are not allowed.
 
 ### Time series with two data points: Following "VAV-SATZNT" files
 Please use the corresponding CSV file and python code to plot the below figure. 
+![Figure_2](https://user-images.githubusercontent.com/103592307/228621550-e4096bad-5522-402a-9960-ec0f3d1243d6.png)
 This content includes the raw data from the willis tower measurement. 
 The data reproduction and modification are not allowed. 
-![Figure_2](https://user-images.githubusercontent.com/103592307/228621550-e4096bad-5522-402a-9960-ec0f3d1243d6.png)
