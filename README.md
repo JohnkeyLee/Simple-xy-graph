@@ -1,6 +1,6 @@
 # Data-graphs-Outdoor air
 Please find what you are looking for...
-### Time series with two data points: solid line and the scatter plot 
+### Time series with two data points: solid line and scatters 
 Following "OAT" files
 Please use the corresponding CSV file and python code to plot the below figure. 
 ![Figure_1](https://user-images.githubusercontent.com/103592307/228617812-8c016cee-be40-48c7-b57d-fa5935c9dd24.png)
